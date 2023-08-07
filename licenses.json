@@ -4,7 +4,7 @@
       "id": 1,
       "customer": "Gerardo Contreras",
       "app_name": "GDB_to_bin_For_PS2",
-      "mac_address": "98:28:a6:1d:4d:c5",
+      "serial_number": "9441E-45084-E6C32-9DDB7",
       "license_key": "5E9B-E44A-AF28-CB3D",
       "status": true
     },
@@ -12,17 +12,17 @@
       "id": 2,
       "customer": "",
       "app_name": "",
-      "mac_address": "",
+      "serial_number": "",
       "license_key": "",
-      "status": false
+      "status": true
     },
 	    {
       "id": 3,
-      "customer": "Gerardo Contreras",
-      "app_name": "GDB_to_bin_For_PSP",
-      "mac_address": "98:28:a6:1d:4d:c5",
-      "license_key": "5E9B-E44A-AF28-5555",
-      "status": false
+      "customer": "",
+      "app_name": "",
+      "serial_number": "",
+      "license_key": "",
+      "status": true
     }
   ]
 }
