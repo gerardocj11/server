@@ -1,0 +1,19 @@
+{
+  "licenses": [
+    {
+      "id": 1,
+	  "customer": ""
+      "app_name": "",
+      "mac_address": "98:28:a6:1d:4d:c5",
+      "license_key": "5E9B-E44A-AF28-CB3D",
+	  "status": true
+    },
+    {
+      "id": 2,
+	  "customer": ""
+      "app_name": "",
+      "mac_address": "",
+      "license_key": "",
+	  "status": false
+    }
+  ]
