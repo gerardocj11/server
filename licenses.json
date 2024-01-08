@@ -43,10 +43,10 @@
     {
       "id": 6,
       "customer": "",
-      "app_name": "",
-      "serial_number": "",
+      "app_name": "PES/WE/JL Face - Hair Converter PS2",
+      "serial_number": "08F9C-61D91-D6E7D-58E3B",
       "license_key": "F9A2D8B7C6E5F4A3",
-      "status": false
+      "status": True
     },
     {
       "id": 7,
