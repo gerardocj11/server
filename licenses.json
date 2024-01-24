@@ -4,7 +4,7 @@
       "id": 1,
       "customer": "Gerardo Contreras",
       "app_name": "Test App",
-      "serial_number": "38526-071A5-D7E97-F19FB",
+      "serial_number": "4427D-09A78-70A28-1C877",
       "license_key": "5E9BE44AAF28CB3D",
       "status": true
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "customer": "",
       "app_name": "",
-      "serial_number": "",
+      "serial_number": "38526-071A5-D7E97-F19FB",
       "license_key": "",
       "status": false
     }
