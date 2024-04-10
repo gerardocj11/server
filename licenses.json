@@ -63,6 +63,14 @@
       "serial_number": "2CAE5-08EC4-54E64-0ABD6",
       "license_key": "1A3F7D5B9C8E6F2",
       "status": true
+    },
+    {
+      "id": 9,
+      "customer": "PES/WE Kit Configurator PS2 - PSP",
+      "app_name": "PES/WE/JL Face - Hair Converter PS2",
+      "serial_number": "4427D-09A78-70A28-1C877",
+      "license_key": "5E9BE44AAF28CB3D",
+      "status": true
     }
   ]
 }
