@@ -68,11 +68,11 @@
     },
     {
       "id": 7,
-      "customer": "",
-      "app_name": "",
+      "customer": "Matheus Leonardo",
+      "app_name": "GDB to bin PSP",
       "version": "",
-      "serial_number": "",
-      "license_key": "",
+      "serial_number": "2C240-C2511-9BE2C-FEBB3",
+      "license_key": "A1B2C3D4E5F6G7H8",
       "status": true,
       "price": "",
       "description": ""
