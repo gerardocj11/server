@@ -7,7 +7,9 @@
       "version": "1.0",
       "serial_number": "4427D-09A78-70A28-1C877",
       "license_key": "5E9BE44AAF28CB3D",
-      "status": true
+      "status": true,
+      "price": 0,
+      "description": ""
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "version": "1.0",
       "serial_number": "731E7-5E59D-ED97B-506C4",
       "license_key": "E883C7F0DA1CBB94",
-      "status": true
+      "status": true,
+      "price": "20 USD",
+      "description": ""
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "version": "1.0",
       "serial_number": "268C7-57677-DBA3A-41BBE",
       "license_key": "A123B456C789D012",
-      "status": true
+      "status": true,
+      "price": "Free",
+      "description": ""
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "version": "1.0",
       "serial_number": "92E27-E682C-CF934-824D0",
       "license_key": "A1B2C3D4E5F6A7B8",
-      "status": true
+      "status": true,
+      "price": "20 USD",
+      "description": ""
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "version": "1.0",
       "serial_number": "92E27-E682C-CF934-824D0",
       "license_key": "F9A2D8B7C6E5F4A3",
-      "status": true
+      "status": true,
+      "price": "15 USD",
+      "description": ""
     },
     {
       "id": 6,
@@ -52,16 +62,20 @@
       "version": "1.0",
       "serial_number": "08F9C-61D91-D6E7D-58E3B",
       "license_key": "F9A2D8B7C6E5F4A3",
-      "status": true
+      "status": true,
+      "price": "100 USD",
+      "description": ""
     },
     {
       "id": 7,
-      "customer": "Gerardo Contreras",
-      "app_name": "Test App",
-      "version": "1.0",
-      "serial_number": "38526-071A5-D7E97-F19FB",
-      "license_key": "5E9BE44AAF28CB3D",
-      "status": true
+      "customer": "",
+      "app_name": "",
+      "version": "",
+      "serial_number": "",
+      "license_key": "",
+      "status": true,
+      "price": "",
+      "description": ""
     },
     {
       "id": 8,
@@ -70,7 +84,9 @@
       "version": "1.0",
       "serial_number": "2CAE5-08EC4-54E64-0ABD6",
       "license_key": "1A3F7D5B9C8E6F2",
-      "status": true
+      "status": true,
+      "price": "100 USD",
+      "description": ""
     },
     {
       "id": 9,
@@ -79,7 +95,9 @@
       "version": "0.6.3",
       "serial_number": "B7555-1054F-04478-44F54",
       "license_key": "B4E9C1F3D7A5E8",
-      "status": true
+      "status": true,
+      "price": "15 USD",
+      "description": ""
     }
   ]
 }
