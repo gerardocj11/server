@@ -123,11 +123,11 @@
     },
     {
       "id":11,
-      "customer": "Felipe Abraham Lopez",
+      "customer": "",
       "app_name": "PES/WE/JL Picture Decoder",
       "version": "0.1.2",
-      "serial_number": "4427D-09A78-70A28-1C877",
-      "license_key": "123",
+      "serial_number": "",
+      "license_key": "A1B2C3D4E5F6A7B8",
       "status": true,
       "price": "",
       "description": ""
