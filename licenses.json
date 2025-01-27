@@ -164,8 +164,7 @@
       "status": true,
       "price": "20 USD",
       "description": "Transfer"
-    }
-    ,
+    },
     {
       "id":15,
       "customer": "",
